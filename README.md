@@ -13,24 +13,24 @@
 ---
 
 <h1 align="center">👋 Hello, I'm Rudranshu Pratik</h1>
-<h3 align="center">💻 Aspiring Software Engineer | 🚀 Tech Explorer | 🔗 Blockchain Enthusiast</h3>
+<h3 align="center">💻 Aspiring Software Engineer | 🚀 Tech Explorer | 🔗 Blockchain </h3>
 
 ---
 
 ## 👨‍💻 About Me
 
-- 🎓 Bachelor's in **Computer Applications**
-- 🌱 Currently Learning **Python & C Programming**
+- 🎓 Bachelor's and Master's in **Computer Applications** (BCA | MCA)
+- 🌱 Currently Learning **SalesForce and Machine Learning**
 - 🔭 Working on **Blockchain & Web Projects**
 - 💡 Interested in **Open Source & Scalable Systems**
-- ⚡ Fun Fact: *I love turning ideas into code*
+- ⚡ Fun Fact: **I enjoy refactoring old code more than writing new code.... digital archaeology is underrated**
 
 ---
 
 ## 🛠 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,react,nodejs,python,c,java,html,css,git,github,mysql,firebase" />
+  <img src="https://skillicons.dev/icons?i=js,react,Express,MongoDB,nodejs,python,c,java,html,css,git,github,mysql,firebase" />
 </p>
 
 ---
