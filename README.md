@@ -1,94 +1,23 @@
-<!-- HEADER ANIMATION -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3500&pause=800&color=36BCF7&center=true&vCenter=true&width=700&lines=Namaste+🙏;I'm+Rudranshu+Pratik;Aspiring+Software+Engineer;Blockchain+%7C+Web+Developer;Always+Learning+New+Things" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,11,18,22&height=180&section=header&text=Rudranshu%20Pratik&fontSize=42&fontColor=fff&animation=twinkling&desc=Aspiring%20Software%20Engineer%20%7C%20Web3%20%26%20Full-Stack&descSize=18" alt="Header" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=550&lines=Namaste+world!+🙏;Building+decentralized+apps+%26+modern+web;Digital+archaeology+enthusiast;Always+refactoring+and+learning." alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=RudranshuPratik&label=Profile+Views&color=38bdf8&style=flat-square" alt="Views" />
 </p>
 
 ---
 
-<!-- VISITOR COUNTER -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=RudranshuPratik&label=Profile%20Views&color=0e75b6&style=flat" />
-</p>
+### 👾 A Quick Look
 
----
-
-<h1 align="center">👋 Hello, I'm Rudranshu Pratik</h1>
-<h3 align="center">💻 Aspiring Software Engineer | 🚀 Tech Explorer | 🔗 Blockchain </h3>
-
----
-
-## 👨‍💻 About Me
-
-- 🎓 Bachelor's and Master's in **Computer Applications** (BCA | MCA)
-- 🌱 Currently Learning **SalesForce and Machine Learning**
-- 🔭 Working on **Blockchain & Web Projects**
-- 💡 Interested in **Open Source & Scalable Systems**
-- ⚡ Fun Fact: **I enjoy refactoring old code more than writing new code.... digital archaeology is underrated**
-
----
-
-## 🛠 Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,react,nodejs,python,c,java,html,css,git,github,mysql,firebase" />
-</p>
-
----
-
-## 📌 Featured Projects
-
-- 🔗 **BlockchainBased_Charity_Donation_Platform**
-- 💰 **Charity-DApp**
-- 🪙 **Ethereum Wallet**
-- 🧠 **C Programming Repository**
-- ⚙️ **Mithril Fork (Python)**
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=RudranshuPratik&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RudranshuPratik&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-## 🔥 GitHub Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=RudranshuPratik&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-## 🏆 Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=RudranshuPratik&theme=tokyonight&no-frame=true&row=1&column=6" />
-</p>
-
----
-
-## 🌐 Connect With Me
-
-<p align="center">
-  <a href="https://github.com/RudranshuPratik">
-    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
-
----
-
-## ✨ Quote
-
-<p align="center">
-  <i>"Code. Learn. Build. Repeat."</i>
-</p>
-
----
-
-<!-- FOOTER WAVE ANIMATION -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:8A2BE2&height=120&section=footer"/>
-</p>
+```javascript
+const rudranshu = {
+  degrees: ["BCA", "MCA"],
+  passions: ["Blockchain", "Scalable Systems", "Open Source"],
+  currentlyExploring: ["Salesforce", "Machine Learning"],
+  funFact: "I find joy in refactoring legacy code — digital archaeology is underrated ⛏️"
+};
