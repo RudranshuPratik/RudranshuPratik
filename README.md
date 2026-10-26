@@ -1,23 +1,21 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,11,18,22&height=180&section=header&text=Rudranshu%20Pratik&fontSize=42&fontColor=fff&animation=twinkling&desc=Aspiring%20Software%20Engineer%20%7C%20Web3%20%26%20Full-Stack&descSize=18" alt="Header" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=550&lines=Namaste+world!+🙏;Building+decentralized+apps+%26+modern+web;Digital+archaeology+enthusiast;Always+refactoring+and+learning." alt="Typing SVG" />
-</p>
+# Hi there, I'm Rudranshu Pratik 👋
+### Software Engineer & Full-Stack Developer
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=RudranshuPratik&label=Profile+Views&color=38bdf8&style=flat-square" alt="Views" />
-</p>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=61AFEF&center=true&vcenter=true&width=500&lines=Full-Stack+%26+Backend+Developer;Java+%2B+Spring+Boot+%7C+MERN+Stack;Exploring+Machine+Learning+%26+System+Design;Guitarist+%26+Tech+Enthusiast)](https://git.io/typing-svg)
 
 ---
 
-### 👾 A Quick Look
+</div>
+
+## 🚀 About Me
 
 ```javascript
 const rudranshu = {
-  degrees: ["BCA", "MCA"],
-  passions: ["Blockchain", "Scalable Systems", "Open Source"],
-  currentlyExploring: ["Salesforce", "Machine Learning"],
-  funFact: "I find joy in refactoring legacy code — digital archaeology is underrated ⛏️"
+  degrees: ["BCA", "MCA @ KIIT University"],
+  coreTech: ["Java", "Spring Boot", "Node.js", "React", "Python"],
+  passions: ["Scalable Systems", "Web Engineering", "Machine Learning"],
+  currentlyBuilding: "Apple Music Playlist Downloader",
+  funFact: "When I'm not writing code, I'm usually playing fingerstyle guitar 🎸"
 };
