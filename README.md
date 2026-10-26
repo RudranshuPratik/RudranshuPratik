@@ -3,6 +3,8 @@
 # Hi there, I'm Rudranshu Pratik 👋
 ### Software Engineer & Full-Stack Developer
 
+![Profile Views](https://komarev.com/ghpvc/?username=RudranshuPratik&color=61AFEF&style=for-the-badge&label=PROFILE+VIEWS)
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=61AFEF&center=true&vcenter=true&width=600&lines=Java+%7C+Python+%7C+SQL;Backend+Development+%26+REST+APIs;Exploring+AI%2FML+%26+Automation;Building+Projects+%7C+Learning+Every+Day)](https://git.io/typing-svg)
 
 ---
