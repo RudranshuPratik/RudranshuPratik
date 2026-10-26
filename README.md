@@ -10,12 +10,32 @@
 </div>
 
 ## 🚀 About Me
+## 👋 Hey, I'm Rudranshu Pratik!
 
-```javascript
-const rudranshu = {
-  degrees: ["BCA", "MCA @ KIIT University"],
-  coreTech: ["Java", "Spring Boot", "Node.js", "React", "Python"],
-  passions: ["Scalable Systems", "Web Engineering", "Machine Learning"],
-  currentlyBuilding: "Apple Music Playlist Downloader",
-  funFact: "When I'm not writing code, I'm usually playing fingerstyle guitar 🎸"
-};
+I'm a Computer Applications graduate from **Kalinga Institute of Industrial Technology (KIIT)** with an interest in software development, backend engineering, and automation.
+
+I enjoy understanding how things work behind the scenes — from building APIs and working with databases to exploring how AI/ML can solve real-world problems. Most of my learning comes from experimenting, building projects, and figuring things out along the way.
+
+### 🚀 About Me
+
+- 🎓 MCA Graduate from KIIT University
+- 💻 Interested in Backend Development, Java, and Software Engineering
+- 🛠️ Hands-on experience with Java, Python, SQL, MongoDB, and REST APIs
+- 🤖 Exploring AI/ML fundamentals, workflow automation, and AI-powered applications
+- 🌱 Currently strengthening my DSA, backend development, and problem-solving skills
+- 🏗️ Worked on a Smart Symptom Analysis and Remote Healthcare Assistance Platform using the MERN stack and an XGBoost-based ML model
+- 🤝 Open to opportunities where I can learn, contribute, and grow as a software developer
+
+### 🧰 Tech Stack
+
+**Languages:** Java, Python, SQL  
+**Backend & Databases:** Node.js, Express.js, MongoDB, REST APIs  
+**Tools:** Git, GitHub, Docker, Postman, Google Colab  
+**Exploring:** AI/ML, Automation, Salesforce Development
+
+### 📌 What I'm Working Towards
+
+Building a stronger foundation in software engineering, writing better code, and developing projects that go beyond just working on my machine.
+
+I believe the best way to learn is by building, breaking things, and understanding why they work.
+
