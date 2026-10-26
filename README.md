@@ -3,7 +3,7 @@
 # Hi there, I'm Rudranshu Pratik 👋
 ### Software Engineer & Full-Stack Developer
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=61AFEF&center=true&vcenter=true&width=500&lines=Full-Stack+%26+Backend+Developer;Java+%2B+Spring+Boot+%7C+MERN+Stack;Exploring+Machine+Learning+%26+System+Design;Guitarist+%26+Tech+Enthusiast)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=61AFEF&center=true&vcenter=true&width=600&lines=Java+%7C+Python+%7C+SQL;Backend+Development+%26+REST+APIs;Exploring+AI%2FML+%26+Automation;Building+Projects+%7C+Learning+Every+Day)](https://git.io/typing-svg)
 
 ---
 
