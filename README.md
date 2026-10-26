@@ -1,7 +1,7 @@
 <div align="center">
 
 
-# Hi there, I'm Rudranshu Pratik 👋
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=61AFEF&center=true&vcenter=true&width=500&lines=Greetings+Visitor)](https://git.io/typing-svg)
 ### Aspiring Software Engineer & Full-Stack Developer
 ![Profile Views](https://komarev.com/ghpvc/?username=RudranshuPratik&color=61AFEF&style=for-the-badge&label=PROFILE+VIEWS)
 
