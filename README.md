@@ -16,7 +16,7 @@
 
 I'm a Computer Applications graduate from **Kalinga Institute of Industrial Technology (KIIT)** with an interest in software development, backend engineering, and automation.
 
-I enjoy understanding how things work behind the scenes — from building APIs and working with databases to exploring how AI/ML can solve real-world problems. Most of my learning comes from experimenting, building projects, and figuring things out along the way.
+I enjoy understanding how things work behind the scenes — from building APIs and working with databases to exploring how AI/ML can solve real world problems. Most of my learning comes from experimenting, building projects, and figuring things out along the way.
 
 ### 🚀 About Me
 
